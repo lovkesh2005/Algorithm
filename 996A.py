@@ -20,9 +20,7 @@ if(n<5):
         n = n/n-1
     else:
         n = 0
-    
-     
-        
+       
 print(count)
     
     
